@@ -1,7 +1,7 @@
-export default function Home() {
+export default function HelpCenter() {
   return (
     <div className="container mx-auto">
-      Homepage
+      Help Center
     </div>
   )
 }

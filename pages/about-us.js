@@ -1,7 +1,7 @@
-export default function Home() {
+export default function AboutUs() {
   return (
     <div className="container mx-auto">
-      Homepage
+      About Us
     </div>
   )
 }

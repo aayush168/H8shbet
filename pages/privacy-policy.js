@@ -1,7 +1,7 @@
-export default function Home() {
+export default function PrivacyPolicy() {
   return (
     <div className="container mx-auto">
-      Homepage
+      Privacy Policy
     </div>
   )
 }

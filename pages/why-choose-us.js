@@ -1,7 +1,7 @@
-export default function Home() {
+export default function WhyChooseUs() {
   return (
     <div className="container mx-auto">
-      Homepage
+      Why Choose us
     </div>
   )
 }
